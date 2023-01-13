@@ -15,6 +15,7 @@
   - [User Story](#userStory)
   - [Acceptance Criteria](#acceptanceCriteria)
   - [Screenshot](#screenShot)
+  - [Video Link](#videoLink)
   - [Questions](#questions)
 
   ## Installation
@@ -57,7 +58,10 @@
   THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
   ## Screenshot
-  undefined
+  ![Screenshot 2023-01-12 at 23 43 03](https://user-images.githubusercontent.com/113846649/212254809-279c1ca5-6dba-42b3-97d9-d12c06ee19bf.png)
+
+  ## Video Link
+  https://drive.google.com/file/d/1vGS4W9lKy4PSe6MlSN2FOLHl0syfEqja/view
 
   ## Questions
   contact me<br />
